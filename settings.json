@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Halcyon",
+    "editor.fontSize": 24,
+    "editor.fontFamily": "SauceCodePro Nerd Font",
+    "editor.formatOnSave": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "[powershell]": {
+        "editor.defaultFormatter": "ms-vscode.powershell"
+    }
+}
